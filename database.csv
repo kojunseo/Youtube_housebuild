@@ -1,0 +1,5 @@
+index,location,cleaness,built_in
+0,서울시 종로구,True,없음
+1,서울시 양천구,False,깨끗한집
+2,테스트 서울시,False,테스트용입니다.
+3,안녕하세요,False,반갑습니다.
